@@ -1,3 +1,4 @@
+#This code describes (Tweet.py) how we could extract tweets from twitter and store it in a File (twitter.json).
 from tweepy import Stream
 from tweepy import OAuthHandler
 from tweepy.streaming import StreamListener
