@@ -1,4 +1,5 @@
 #To run this install these modules:tweepy,textblob,NLTK corpora
+#Here we are extracting data from twitter and doing sentiment analysis
 import re 
 import tweepy 
 from tweepy import OAuthHandler 
